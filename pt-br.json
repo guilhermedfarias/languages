@@ -153,5 +153,8 @@
   "useThisLink": "Use este link",
   "hasUpdatedTheirIncident": "atualizou seu incidente",
   "scheduledANewMaintenance": "agendou uma nova manutenção",
-  "updatedTheirMaintenance": "atualizou sua manutenção"
+  "updatedTheirMaintenance": "atualizou sua manutenção",
+  "is now operational!": "Está online novamente"",
+  "this update was created by an automated monitoring service": "esta atualização foi criada por um serviço de monitoramento automatizado"
+  
 }
